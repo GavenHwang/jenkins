@@ -6,7 +6,7 @@ dockerImage=docker:${image}
 ## 设置rancher的参数
 CATTLE_ACCESS_KEY=****************
 CATTLE_SECRET_KEY=*****************************************
-RANCHER_API_URL=http://122.112.226.241:8080/v2-beta/
+RANCHER_API_URL=http://******:8080/v2-beta/
 environment=1a5
 
 ## 获得rancher应用栈中所有符合条件的应用id
